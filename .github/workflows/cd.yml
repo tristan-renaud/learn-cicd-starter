@@ -17,4 +17,4 @@ jobs:
           go-version: "1.27.1"
 
       - name: Build App
-        uses: ./scripts/buildprob.sh
+        uses: ./scripts/buildprod.sh
